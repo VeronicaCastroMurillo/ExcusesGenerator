@@ -1,0 +1,18 @@
+body {
+  background-color: #40fff8;
+}
+
+html {
+  text-align: center;
+  margin: 25%;
+}
+
+#title {
+  color: #a74985;
+  font-family: "Karla";
+}
+
+h1 {
+  color: #ef726b;
+  font-family: "Karla";
+}
